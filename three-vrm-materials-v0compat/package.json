@@ -46,10 +46,10 @@
   "devDependencies": {
     "@types/three": "^0.143.0",
     "lint-staged": "13.0.3",
-    "three": "../../three"
+    "three": "file:../../three"
   },
   "peerDependencies": {
     "@types/three": "^0.143.0",
-    "three": "../../three"
+    "three": "file:../../three"
   }
 }
